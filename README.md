@@ -8,4 +8,4 @@ Analysis was conducted adding various splits.
 ![image](https://github.com/linazili/Tableau-HR-Report/assets/117217908/759f11fc-1d94-4a0f-960a-a0dd33a179e1)
 ![image](https://github.com/linazili/Tableau-HR-Report/assets/117217908/a98331f0-28f5-4172-bdc4-86b3ebc48bda)
 ![image](https://github.com/linazili/Tableau-HR-Report/assets/117217908/ac0905d7-19a8-4b79-a5de-72f4a1091470)
-
+https://public.tableau.com/app/profile/lina.zilinske/viz/HRReport_16955090945620/Dashboard2?publish=yes
