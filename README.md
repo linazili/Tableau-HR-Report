@@ -5,7 +5,7 @@ Main KPIs include currently employed, terminated and to be terminated employees.
 Also employees comparison through time.
 
 Analysis was conducted adding various splits.
-![image](https://github.com/linazili/Tableau-HR-Report/assets/117217908/759f11fc-1d94-4a0f-960a-a0dd33a179e1)
-![image](https://github.com/linazili/Tableau-HR-Report/assets/117217908/a98331f0-28f5-4172-bdc4-86b3ebc48bda)
-![image](https://github.com/linazili/Tableau-HR-Report/assets/117217908/ac0905d7-19a8-4b79-a5de-72f4a1091470)
+![image](https://github.com/linazili/Tableau-HR-Report/assets/117217908/41ca566c-31a2-4208-8a35-ceab1048596a)
+![image](https://github.com/linazili/Tableau-HR-Report/assets/117217908/ebf81324-640a-499d-8653-75291c3f762b)
+![image](https://github.com/linazili/Tableau-HR-Report/assets/117217908/d6fb7dd0-c670-4c6f-954f-36c103a3c4a8)
 https://public.tableau.com/app/profile/lina.zilinske/viz/HRReport_16955090945620/Dashboard2?publish=yes
